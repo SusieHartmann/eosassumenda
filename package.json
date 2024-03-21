@@ -1,0 +1,26 @@
+{
+  "name": "eosassumenda",
+  "version": "1.0.0",
+  "description": "Standard list of ERC20 Tokens with details on Ethereum Network",
+  "main": "docs/",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SusieHartmann/eosassumenda.git"
+  },
+  "keywords": [
+    "erc20",
+    "sunt",
+    "ethereum"
+  ],
+  "author": "AlanBogisich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SusieHartmann/eosassumenda.git/issues"
+  },
+  "dependencies": {
+    "jsonfile": "^4.0.0"
+  }
+}
